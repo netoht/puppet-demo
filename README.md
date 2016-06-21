@@ -102,13 +102,6 @@ de declaração das classes.
 puppet apply init.pp --noop
 ```
 
-# Dúvidas
-
-1. Procurar um puppet lint para a versão 2.7
-1. Qual diferença do include vs class[] (instância de classe)?
-1. O que significa ->, <-, ~>, <~?
-1. O que significa $::osfamily no if?
-
 # Referências
 
 - [Apostila de puppet PT-BR](https://github.com/instruct-br/apostila-puppet)
